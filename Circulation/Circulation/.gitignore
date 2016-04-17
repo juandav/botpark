@@ -1,0 +1,5 @@
+﻿obj
+*.log
+Circulation.dll.config
+Circulation.pdb
+Circulation.dll
